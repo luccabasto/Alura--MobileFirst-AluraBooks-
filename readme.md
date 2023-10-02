@@ -1,0 +1,1 @@
+Projeto desenvolvido entre o mês de Agosto e Setembro - Desenvolvendo habilidades de responsividade Mobile-First.
