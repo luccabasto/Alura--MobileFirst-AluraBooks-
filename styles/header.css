@@ -113,3 +113,8 @@
         display: none;
     }
 }
+@media screen and (min-width: 1080px){
+    .opcoes{
+        margin-right: auto;
+    }
+}
